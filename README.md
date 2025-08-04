@@ -6,5 +6,3 @@ gimenaacuna gimena.acunaherrera gimena_herrera_c GimenaAcuna#0335
 
 Languages and Tools:
 bootstrap cplusplus css3 git html5 javascript mysql oracle php python
-
-gimena-code
