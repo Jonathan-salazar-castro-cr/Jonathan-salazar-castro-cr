@@ -1,1 +1,10 @@
-Estudiante de cuarto año (graduación en agosto) en bachillerato en informática empresarial en la Universidad de Costa Rica (UCR), estudiante en el Centro de la cultura. Manejo de Excel y Word intermedio, curso sobre SCRUM (https://kickoff.pmi.org/). Manejo intermedio de bases de datos SQL, Rest API. Amplio interés en el área de programación y desarrollo de software. 
+Fourth-year student (graduating in August) in the Bachelor's program in Business Informatics at the University of Costa Rica (UCR). Also a student at the Centro de la Cultura. Intermediate skills in Excel and Word. Completed a course on Scrum (https://kickoff.pmi.org/). Intermediate knowledge of SQL databases and REST APIs. Strong interest in programming and software development.
+
+A passionate developer from Costa Rica
+Connect with me:
+gimenaacuna gimena.acunaherrera gimena_herrera_c GimenaAcuna#0335
+
+Languages and Tools:
+bootstrap cplusplus css3 git html5 javascript mysql oracle php python
+
+gimena-code
